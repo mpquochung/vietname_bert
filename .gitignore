@@ -1,0 +1,8 @@
+/model/
+/log/
+/wandb/
+/dataset/
+dataset
+dataset/
+__pycache__
+*.pyc
